@@ -1,6 +1,6 @@
-# Freestyle
-# Meditator
-# Sketching
-# Reading
-# FPVer
-# etc...
+- Freestyle
+- Meditator
+- Sketching
+- Reading
+- FPVer
+- And more...
